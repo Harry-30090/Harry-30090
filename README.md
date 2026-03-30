@@ -2,7 +2,6 @@
 
 I'm a student currently learning various programming languages. Exploring different technologies and frameworks. Building small projects to improve my skills!
 
-よろしくお願いします！
 <h3>Services I use</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
