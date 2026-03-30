@@ -1,6 +1,9 @@
-## 👋Hi there, I'm Harry
+## 👋こんにちは, Harryです!
 
-<h3>When I code, I rely on</h3>
+プログラミングを学習中の学生です。Web開発や自動化に興味があります。小さなツールやアプリを作りながら勉強中です。
+様々な言語や技術に触れながら、日々スキルを伸ばしています。
+よろしくお願いします！
+<h3>使うサービス</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white">
