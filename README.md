@@ -1,7 +1,12 @@
 ## 👋Hello there, I'm Harry!
 
-I'm a student currently learning various programming languages. 
+I'm a student based in Japan.
+
+I am currently learning various programming languages. 
+
+
 I'm exploring different technologies and frameworks, and building small projects to improve my skills!
+
 
 <h3>Services I use</h3>
 <p>
