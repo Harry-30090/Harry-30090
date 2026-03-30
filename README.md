@@ -16,7 +16,6 @@ I'm exploring different technologies and frameworks, and building small projects
   <img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=css&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 Thanks for visiting my profile!
