@@ -1,7 +1,7 @@
 ## 👋Hello there, I'm Harry!
 
 I'm a student currently learning various programming languages. Exploring different technologies and frameworks. Building small projects to improve my skills!
-様々な言語や技術に触れながら、日々スキルを伸ばしています。
+
 よろしくお願いします！
 <h3>Services I use</h3>
 <p>
@@ -13,4 +13,5 @@ I'm a student currently learning various programming languages. Exploring differ
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+
 Thanks for visiting my profile!
